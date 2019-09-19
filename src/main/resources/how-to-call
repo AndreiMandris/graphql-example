@@ -1,0 +1,14 @@
+{
+	getBookByIsn (isn: "1234") {
+		isn
+		title
+	}
+}
+
+{
+	allBooks {
+		isn
+		title
+		rating
+	}
+}
